@@ -324,7 +324,7 @@ Vue.component('footerArea', {
                                         <div class="footer-companyInfo-companyName">
                                             <b>長亨證券投資顧問股份有限公司獨立經營管理</b>
                                         </div>
-                                        電話：02 8722 1666<span v-if="$root.$data.windowWidth > 767"> | </span><br v-if="$root.$data.windowWidth < 768"/>地址：台北市110 信義路五段 7 號台北 101 大樓 55 樓之一 
+                                        電話：02 8722 1666<span v-if="$root.$data.windowWidth > 767"> | </span><br v-if="$root.$data.windowWidth < 768"/>地址：臺北市中山區松江路237號15樓 
                                         <br/>
                                         營業執照字號： 113年金管投顧新字第 004 號
                                     </div>
